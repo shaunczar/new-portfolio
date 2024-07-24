@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    padding: 20px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#label1{
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    display: block;
+    color: azure;
+}
+
+.btn{
+    color: white;
+    background-color: #007ff7;
+    text-align: center;
+    transition: 03.25s;
+}
+
+.btn:hover{
+    background-color: #014483;
+}
